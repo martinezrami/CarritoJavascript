@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "nombre": "Banco plano",
+        "precio": 3000,
+        "img": "./img/banco-plano.jpg"
+    },
+    {
+        "id": 1,
+        "nombre": "Mancuernero",
+        "precio": 4500,
+        "img": "./img/mancuernero.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Prensa",
+        "precio": 8700,
+        "img": "./img/prensa.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Escalador",
+        "precio": 3800,
+        "img": "./img/escalador.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Sillon de Cuadriceps",
+        "precio": 5500,
+        "img": "./img/cuadriceps.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Soporte para sentadillas",
+        "precio": 4900,
+        "img": "./img/sentadillas.jpg"
+    }
+]

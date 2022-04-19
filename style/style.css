@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: inherit;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.cards{
+    display: flex;
+    flex-flow: wrap;
+}
